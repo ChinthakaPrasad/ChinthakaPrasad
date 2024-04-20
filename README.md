@@ -11,7 +11,7 @@
   <pre>
 - 🎓 Still studying software Engineering(ICET Institute).
 - 🚀 Passionate about building end-to-end solutions that integrate front-end and back-end technologies.
-- 🌐 Experienced in developing freelance project based on java, Springboot, JS, React.
+- 🌐 Experienced in developing freelance project based on java, Springboot, JS, Angular.
 - 🌱 Continuously learning and adapting to new technologies and industry best practices.
   </pre>
 
