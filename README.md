@@ -9,9 +9,9 @@
 <br>
   <br>
   <pre>
-- 🎓 Still studying software Engineering(ICET Institute).
+- 🎓 Doing task by researching and studying continuously.
 - 🚀 Passionate about building end-to-end solutions that integrate front-end and back-end technologies.
-- 🌐 Experienced in developing freelance project based on java, Springboot, JS, Angular.
+- 🌐 Experienced in developing freelance project based on java, Springboot, JS, Bootstrap.
 - 🌱 Continuously learning and adapting to new technologies and industry best practices.
   </pre>
 
@@ -21,7 +21,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinthakaprasad" alt="chinthakaprasad" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, Angular JS, Node JS, SpringBoot**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **chinthakaprasad30@gmail.com**
 
