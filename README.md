@@ -9,7 +9,7 @@
 <br>
   <br>
   <pre>
-- 🎓 Doing task by researching and studying continuously.
+- 🎓 Accept new challenges and doing task by researching.
 - 🚀 Passionate about building end-to-end solutions that integrate front-end and back-end technologies.
 - 🌐 Experienced in developing projects based on java, Springboot, JS, Bootstrap.
 - 🌱 Continuously learning and find industry best practices.
