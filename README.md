@@ -5,7 +5,7 @@
 
 <h3>## 💻 About Me<br>
 <br>
-👋 Hey there! I'm Chinthaka Prasad, a passionate Full Stack Developer with a diverse skill set that spans the realms of Java development, React, Spring Boot, Angular, Node.js, and MySQL. Have confidance to new challenges and learn new things in rapid growing tech industry.
+👋 Hey there! I'm Chinthaka Prasad full stack software enginner and freelancer. Contact me on **chinthakaprasad30@gmail.com**. 
 <br>
   <br>
   <pre>
@@ -22,8 +22,7 @@
 
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chinthakaprasad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinthakaprasad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
 
 
 
